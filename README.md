@@ -1,11 +1,12 @@
+![logo](https://github.com/msudipta888/msudipta888/blob/main/Blue%20Minimalist%20Technology%20Event%20Instagram%20Post%20(1).png)
 <h1 align="center">Hi 👋, I'm Sudipto Mondal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img aligin="right" alt="developer" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodefeast.in%2Fcourses%2Ffullstack-development&psig=AOvVaw1OVvbsvzVq7nv741dvyT-T&ust=1729745699680000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCygILbo4kDFQAAAAAdAAAAABAE"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msudipta888&label=Profile%20views&color=0e75b6&style=flat" alt="msudipta888" /> </p>
+<img aligin="left" alt="developer" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0ysv8eiDc9kkwb0W3dPEq3jcdkI7cK0jPg&s"
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=msudipta888&label=Profile%20views&color=0e75b6&style=flat" alt="msudipta888" /> </p>
 
 - 🔭 I’m currently working on [MapQuestorApp](https://mapquestorapp.netlify.app)
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **BlockChain**  
 
 - 💬 Ask me about **mern stack**
 
